@@ -1,0 +1,156 @@
+.header {
+    width: 100%;
+    height: 165px;
+}
+.header .navbar {
+    width: 100%;
+    height: 165px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.header .navbar .brand {
+    width: 120px;
+    height: auto;
+}
+.header .navbar .navbar-menu {
+    margin-left: auto;
+    margin-right: 0;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.header .navbar .navbar-menu .navbar-menu-item {
+    margin-left: 95px;
+}
+.header .navbar .navbar-menu .navbar-menu-item:hover a {
+    color: #212121;
+}
+
+.main-banner-section {
+    width: 100%;
+}
+.main-banner-section .main-banner-image {
+    width: 1065px;
+    height: auto;
+
+    overflow: hidden;
+}
+.main-banner-section .main-banner-image img {
+    width: 100%;
+
+    transition: transform 180ms ease-out;
+}
+.main-banner-section .main-banner-post {
+    margin-top: 100px;
+
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.main-banner-section .main-banner-post .post-category {
+    margin-bottom: 30px;
+}
+.main-banner-section .main-banner-post .post-title {
+    margin-bottom: 40px;
+}
+.main-banner-section .main-banner-post .post-description {
+    margin-bottom: 50px;
+}
+.main-banner-section .main-banner-post .post-comment-btn {
+    width: auto;
+    height: auto;
+    margin-bottom: 135px;
+
+    border: none;
+    outline: none;
+
+    background-color: transparent;
+
+    font-family: "Ubuntu Light", sans-serif;
+    font-size: 14px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
+
+.post-section {
+    width: 100%;
+}
+.post-section .post-container {
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.post-section .post-container .post-block {
+    width: calc(50% - 30px);
+    height: 500px;
+    margin-bottom: 135px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+
+.post-section .post-container .post-block .post-thumbnail {
+    margin-bottom: 15px;
+}
+
+.post-section .post-container .post-block .post-category {
+    margin-bottom: 15px;
+}
+
+.post-section .post-container .post-block .post-title {
+    margin-bottom: 20px;
+}
+
+.email-sub-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 290px;
+    background-color: #f0f0f0;
+}
+
+.email-sub-section .email-sub-panel {
+    margin-bottom: 75px;
+}
+
+.email-sub-section .email-sub-address {
+
+    width: 400px;
+    border-bottom: 1px solid #333333;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.email-sub-section .email-sub-address .email-sub-placeholder-typo{
+    width: 370px;
+    margin-bottom: 15px;
+}
+
+.email-sub-section .email-sub-address .email-sub-button{
+    width: 30px;
+
+    cursor: pointer;
+}

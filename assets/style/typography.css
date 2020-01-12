@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'PlayfairDisplay Regular';
+    src: url('../font/PlayfairDisplay-Regular.otf');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Ubuntu Light';
+    src: url('../font/Ubuntu-L.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+.navbar-menu-typo {
+    font-family: "PlayfairDisplay Regular", sans-serif;
+    font-size: 14px;
+    color: #626262;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
+.post-category-typo {
+    font-family: "Ubuntu Light", sans-serif;
+    font-size: 14px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+
+    cursor: pointer;
+}
+.post-title-typo {
+    font-family: "PlayfairDisplay Regular", sans-serif;
+    font-size: 30px;
+    color: #626262;
+
+    cursor: pointer;
+}
+.post-description-typo {
+    font-family: "PlayfairDisplay Regular", sans-serif;
+    font-size: 14px;
+    color: #717171;
+    line-height: 24px;
+}
+.email-sub-title-typo {
+    font-family: "PlayfairDisplay Regular", sans-serif;
+    font-size: 30px;
+    color: #333333;
+}
+.email-sub-placeholder-typo {
+    font-family: "PlayfairDisplay Regular", sans-serif;
+    font-size: 14px;
+    color: #626262;
+}

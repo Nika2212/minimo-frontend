@@ -1,10 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54a33793-383e-4665-9a68-8d015fb49b09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/nikab.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/PlayfairDisplay-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/PlayfairDisplay-BlackItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/PlayfairDisplay-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/PlayfairDisplay-BoldItalic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/PlayfairDisplay-Italic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/PlayfairDisplay-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-B.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-BI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-L.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-LI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-M.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-MI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-R.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/font/Ubuntu-RI.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/lifestyle_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/lifestyle_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/lifestyle_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/lifestyle_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/lifestyle_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/lifestyle_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/main_banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/plane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/typography.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/style/ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WGjuuZo66MT7GsyGutHelLpWby" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/font" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\minimo-frontend\assets\font" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54a33793-383e-4665-9a68-8d015fb49b09" name="Default Changelist" comment="" />
+      <created>1578783051818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578783051818</updated>
+      <workItem from="1578783053303" duration="227000" />
+      <workItem from="1578783299211" duration="10708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="7" key="SettingsEditor" timestamp="1578785969030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578785969030" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578790081441">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578790081441" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578787711559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578787711559" />
   </component>
 </project>
